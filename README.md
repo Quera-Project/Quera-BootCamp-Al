@@ -1,2 +1,38 @@
 # Quera-BootCamp-Al
-repository for quera bootcamp projects
+# 📌 پروژه گروه 9  
+
+👨‍🏫 **منتور:** آرین کمایی  
+
+👥 **اعضا:**  
+- شهاب آذرآباد  
+- علی قنبری  
+- سعید نیکوزادگان  
+- یاسین پیریایی  
+- سپهر مسعودی‌زاد  
+
+---
+
+## 📂 مسئولیت‌ها  
+
+### 📊 آمار  
+- قسمت اول: **علی قنبری**  
+- قسمت دوم: **یاسین پیریایی، سعید نیکونژاد، سپهر مسعودی‌زاد**  
+
+### 🔎 کلاسترینگ  
+- **شهاب آذرآباد، علی قنبری**  
+
+### 📈 رگرشن  
+- **یاسین پیریایی، سعید نیکونژاد، سپهر مسعودی‌زاد**  
+
+---
+
+## 🔗 لینک‌ها  
+- 📂 Google Drive: [لینک پوشه](https://drive.google.com/drive/folders/1-Nu0u7E65bbCuBVPklbc9kFXp6gmuIm3?usp=sharing)  
+- 🖥️ GitHub: [لینک مخزن](https://github.com/Quera-Project/Quera-BootCamp-Al)  
+
+---
+
+## 🌿 برنچ‌های گیت‌هاب  
+- `Clustering`  
+- `Statistics`  
+- `Regression`  
